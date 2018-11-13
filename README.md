@@ -15,3 +15,6 @@ This script currently only works for open subjects and downloads only files that
 # Contribute
 This project is a very good starting point for python web scraping.
 If you want to contribute just fork this repo and start.
+
+## Similar projects
+[Gram Scanner](https://github.com/nickgarlis/gram-scanner)
